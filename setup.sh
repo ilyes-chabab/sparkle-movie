@@ -24,7 +24,8 @@ pip install \
     numpy \
     matplotlib \
     jupyter \
-    pytest
+    pytest \
+    scikit-learn
 
 echo ""
 echo "============================================"
